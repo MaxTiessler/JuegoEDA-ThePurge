@@ -1,2 +1,2 @@
 # JuegoEDA-ThePurge
-Codigo de mi Jugador del Juego de EDA 2020/2021 Q1
+Código para el juego de EDA 2020/2021 Q1
